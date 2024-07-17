@@ -1,5 +1,5 @@
 # About
-Senior Software Engineer with 5+ years of experience in full-stack web development, specialized in creating scalable and efficient web applications, having led the implementation of 3 projects from start to finish and contributed to 15+ projects at RubyLaw, utilizing technologies such as React and Node.
+Senior Software Engineer with 5+ years of experience in full-stack web development, specialized in creating scalable and efficient web applications, having led the implementation of multiple projects from start to finish and contributed to 15+ projects at RubyLaw, utilizing technologies such as React and Node.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffrey-almanzar/) 
 
